@@ -1,0 +1,21 @@
+# Local booking state and backups
+seats.txt
+seats.tmp
+*.bak
+# Compiled binaries and build output
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.dll
+*.so
+build/
+dist/
+theater
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
